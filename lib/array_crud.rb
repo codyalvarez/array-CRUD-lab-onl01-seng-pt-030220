@@ -6,8 +6,6 @@ end
 def create_an_array
   magic_potions = ["sleep","jealousy","bitterness","strength"]
 
-
-
 end
 
 def add_element_to_end_of_array(array, element)
