@@ -1,9 +1,11 @@
 def create_an_empty_array
-  array = []
+  magic_potions = []
 
 end
 
 def create_an_array
+
+
 
 end
 
