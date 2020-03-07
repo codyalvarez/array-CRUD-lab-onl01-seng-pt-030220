@@ -4,6 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
+  magic_potions = ["sleep","jealousy","bitterness","strength"]
 
 
 
